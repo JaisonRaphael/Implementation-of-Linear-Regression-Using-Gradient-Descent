@@ -8,10 +8,28 @@ To write a program to implement the linear regression using gradient descent.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+Step1:
+Use the standard libraries such as numpy, pandas, matplotlib.pyplot in python for the Gradient Descent.
+
+Step2:
+Upload the dataset conditions and check for any null value in the values provided using the .isnull() function.
+
+Step3:
+Declare the default values such as n, m, c, L for the implementation of linear regression using gradient descent.
+
+Step4:
+Calculate the loss using Mean Square Error formula and declare the variables y_pred, dm, dc to find the value of m.
+
+Step5:
+Predict the value of y and also print the values of m and c.
+
+Step6:
+Plot the accquired graph with respect to hours and scores using the scatter plot function.
+
+Step7:
+End the program.
+
+
 
 ## Program:
 ```
@@ -59,7 +77,8 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![ml3](https://user-images.githubusercontent.com/94165957/172101374-71d81388-0264-4e72-8599-675a5f8c7d0d.png)
+
 
 
 ## Result:
